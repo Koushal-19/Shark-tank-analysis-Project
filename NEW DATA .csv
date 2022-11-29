@@ -1,0 +1,99 @@
+Ep. No.,Brand,Male,Female,Location,Idea,Sector,Deal,Amount Invested lakhs,Amout Asked,Debt Invested,Debt Asked,Equity Taken %,Equity Asked %,Avg age,Team members,Ashneer Amount Invested,Ashneer Equity Taken %,Namita Amount Invested,Namita Equity Taken %,Anupam Amount Invested,Anupam Equity Taken %,Vineeta Amount Invested,Vineeta Equity Taken %,Aman Amount Invested,Aman Equity Taken %,Peyush Amount Invested,Peyush Equity Taken %,Ghazal Amount Invested,Ghazal Equity Taken %,Total investors,Partners
+1,BluePine Industries,2,1,Delhi,Frozen Momos,Food,?75 lakhs for 16% equity,75,50,0,0,16,5,35-40,3,25,5.333333333,0,0,0,0,25,5.33,25,5.33,0,0,0,0,3,Ama-Ash-Vin
+1,Booz scooters,1,0,Ahemdabad,Renting e-bike for mobility in private spaces,Automobile,?40 lakhs for 50% equity,40,40,0,0,50,15,25-30,1,20,25,0,0,0,0,20,25,0,0,0,0,0,0,2,Ash-Vin
+1,Heart up my Sleeves,0,1,Delhi,Detachable Sleeves,Clothes,?25 lakhs for 30% equity,25,25,0,0,30,10,20-25,1,0,0,0,0,12.5,15,12.5,15,0,0,0,0,0,0,2,Anu-Vin
+2,Tagz Foods,2,0,Bangalore,Healthy Potato Chips,Food,?70 lakhs for 2.75% equity,70,70,0,0,2.75,1,35-40,2,70,2.75,0,0,0,0,0,0,0,0,0,0,0,0,1,Ash
+2,Head and Heart,1,1,Delhi,Brain Development Course,Health,No Deal,0,50,0,0,0,5,50-55,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2,Agro tourism,1,1,Baramati,Tourism,Tourism,No Deal,0,50,0,0,0,5,50-55,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+3,Qzense Labs,0,2,Delhi,Food Freshness Detector,Food,No Deal,0,100,0,0,0,0.25,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+3,Peeschute,1,0,Jalna,Disposable Urine Bag,Health,?75 lakhs for 6% equity,75,75,0,0,6,4,30-35,1,0,0,0,0,0,0,0,0,75,6,0,0,0,0,1,Ama
+3,NOCD,2,0,Bangalore,Energy Drink,Food,?20 lakhs for 15% equity and ?30 lakhs debt,20,50,30,0,15,2,30-35,2,0,0,0,0,0,0,50,15,0,0,0,0,0,0,1,Vin
+4,CosIQ,1,1,Delhi,Intelligent Skincare,Health,?50 lakhs for 25% equity,50,50,0,0,25,7.5,25-30,2,0,0,0,0,25,12.5,25,12.5,0,0,0,0,0,0,2,Anu-Vin
+4,JhaJi Achaar,0,2,Darbhanga,Pickle,Food,No Deal,0,50,0,0,0,10,45-50,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+4,Bummer,1,0,Ahemdabad,Underwear,Clothes,?75 lakhs for 7.5% equity,75,75,0,0,7.5,4,20-25,1,0,0,37.5,3.75,0,0,0,0,37.5,3.75,0,0,0,0,2,Ama-Nam
+5,Revamp Moto,3,0,Nashik,E-Bike,Automobile,?1 crore for 1.5% equity,100,100,0,0,1.5,1,25-30,3,0,0,0,0,50,0.75,0,0,50,0.75,0,0,0,0,2,Ama-Anu
+5,Hungry Heads,2,0,Mumbai,Restaurant serving 80 types of Maggi,Food,No Deal,0,50,0,0,0,5,35-40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+5,Shrawani Engineers,2,0,Pune,Belly Button Shaper,Lifestyle,No Deal,0,10,0,0,0,20,35-40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+6,Skippi Pops,1,1,Hyderabad,Ice-Pops,Food,?1 crore for 15% equity,100,45,0,0,15,5,35-40,2,20,3,20,3,20,3,20,3,20,3,0,0,0,0,5,Ama-Anu-Ash-Nam-Vin
+6,Menstrupedia,1,1,Ahemdabad,Menstrual Awareness Comic,Health,?50 lakhs for 20% equity,50,50,0,0,20,10,35-40,2,0,0,50,20,0,0,0,0,0,0,0,0,0,0,1,Nam
+6,Hecolll,0,1,Hyderabad,Pollution Resistant Fabric,Clothes,No Deal,0,100,0,0,0,1,35-40,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+7,Raising Superstars,1,1,Mumbai,Child Development App,Lifestyle,?1 crore for 4% equity,100,100,0,0,4,2,35-40,2,50,2,0,0,0,0,0,0,50,2,0,0,0,0,2,Ama-Ash
+7,Torch-it,1,0,Ahemdabad,Gadgets for visually impaired people,Health,No Deal,0,75,0,0,0,1,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+7,La Kheer Deli,1,2,Pune,Kheer in variety of flavors,Food,No Deal,0,50,0,0,0,7.5,35-40,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+8,Beyond Snack,1,0,Kerela,Kerala Banana Chips,Food,?50 lakhs for 2.5% equity,50,50,0,0,2.5,2.5,30-35,1,25,1.25,0,0,0,0,0,0,25,1.25,0,0,0,0,2,Ama-Ash
+8,Vivalyf Innovations- Easy Life,1,1,Hyderabad,Prickless Diabetes Testing Machine,Health,?56 lakhs for 33.33% equity,56,56,0,0,33.33,7.5,20-25,1,0,0,0,0,28,16.66,0,0,0,0,28,16.66,0,0,2,Anu-Pey
+8,Motion Breeze,3,0,Gujarat,Smart Electric Motorcycle,Automobile,?30 lakhs for 6% equity,30,30,0,0,6,3,25-30,3,30,6,0,0,0,0,0,0,0,0,0,0,0,0,1,Ash
+9,Altor,4,0,Kolkata,Smart Helmets,Automobile,?50 lakhs for 7% equity,50,50,0,0,7,5,25-30,4,0,0,25,3.5,0,0,0,0,25,3.5,0,0,0,0,2,Ama-Nam
+9,Ariro,1,1,Chennai,Wooden Toys,Lifestyle,?50 lakhs for 10% equity,50,50,0,0,10,2.5,35-40,2,0,0,0,0,0,0,0,0,25,5,25,5,0,0,2,Ama-Pey
+9,Kabira Handmade,1,1,Jaipur,Healthy Oils,Food,No Deal,0,100,0,0,0,5,35-40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+10,Nuutjob,0,2,Ahemdabad,Male Intimate Hygiene,Health,?25 lakhs for 20% equity,25,25,0,0,20,5,20-25,2,0,0,8.3,6.6,0,0,0,0,8.3,6.6,8.3,6.6,0,0,3,Ama-Nam-Pey
+10,Meatyour,3,0,Pune,Eggs,Food,?30 lakhs for 20% equity,30,30,0,0,20,5,35-40,3,0,0,0,0,10,6.6,0,0,10,6.6,10,6.6,0,0,3,Ama-Anu-Pey
+10,EventBeep,2,1,Pune,Student Community App,Lifestyle,?30 lakhs for 3% equity,30,30,0,0,3,2,20-25,3,10,1,0,0,0,0,0,0,10,1,10,1,0,0,3,Ama-Ash-Pey
+11,Gopal's 56,1,0,Delhi,Fiber Ice Cream,Food,No Deal,0,30000,0,0,0,25,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+11,ARRCOAT Surface Textures,3,0,Delhi,Wall Building,Lifestyle,?50 lakhs for 15% equity,50,50,0,0,15,5,35-40,3,0,0,0,0,50,15,0,0,0,0,0,0,0,0,1,Anu
+11,Farda,1,1,Nagpur,Customised Streetwear,Lifestyle,?30 lakhs for 20% equity,30,30,0,0,20,10,20-25,2,0,0,15,10,0,0,0,0,15,10,0,0,0,0,2,Ama-Nam
+12,Auli Lifestyle,0,1,Kolkata,Ayurvedic Products,Health,?75 lakhs for 15% equity,75,75,0,0,15,4,25-30,1,0,0,75,15,0,0,0,0,0,0,0,0,0,0,1,Nam
+12,SweeDesi,1,1,Pune,Indian Sweets,Food,No Deal,0,40,0,0,0,3,35-40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+12,LOKA,1,1,Delhi,Metaverse App,Technology,?40 lakhs for 24% equity,40,40,0,0,24,5,20-25,1,0,0,0,0,13.3,8,0,0,13.3,8,13.3,8,0,0,3,Ama-Anu-Pey
+13,Annie,3,1,Bangalore,Braille Literary Device,Health,?1.05 crore at 3% equity,105,30,0,0,3,0.5,20-25,4,0,0,35,1,35,1,0,0,0,0,35,1,0,0,3,Anu-Nam-Pey
+13,Caragreen,0,2,Indore,Eco-Friendly boxes,Lifestyle,?50 lakhs for 20% equity,50,50,0,0,20,10,40-45,2,0,0,0,0,25,10,0,0,0,0,25,10,0,0,2,Anu-Pey
+13,The Yarn Bazaar,1,0,Mumbai,Yarn-Trading App,Clothes,?1 crore for 10% equity,100,50,0,0,10,2,30-35,1,25,2.5,0,0,25,2.5,0,0,25,2.5,25,2.5,0,0,4,Ama-Anu-Ash-Pey
+14,The Renal Project,2,0,Mumbai,Home Dialysis Treatment,Health,?1 crore at 6% equity,100,100,0,0,6,3,30-35,2,0,0,50,3,0,0,0,0,50,3,0,0,0,0,2,Ama-Nam
+14,Morikko Pure Foods,2,1,Valsad,Healthy Food Snacks,Food,No Deal,0,100,0,0,0,3,45-50,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+14,Good Good Piggy Bank,0,1,Delhi,Digital Piggy Bank,Lifestyle,No Deal,0,45,0,0,0,5,25-30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+15,Hammer Lifestyle,1,0,Panipat,Smart Audio Products,Lifestyle,?1 crore for 40% equity,100,30,0,0,40,3,25-30,1,0,0,0,0,0,0,0,0,100,40,0,0,0,0,1,Ama
+15,PNT,2,0,Mumbai,Robotics and Automation Solutions,Technology,?25 lakhs for 25% equity and ?25 lakhs debt,25,50,25,0,25,4,20-25,2,0,0,0,0,0,0,0,0,0,0,50,50,0,0,1,Pey
+15,Cocofit,1,1,Hyderabad,Coconut based beverage franchise,Food,?5 for 5% equity,5,5,0,0,5,5,35-40,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Ama-Anu-Nam
+16,Bamboo India,1,1,Pune,Bamboo Products,Lifestyle,?50 lakhs at 3.5% Equity and ?30 lakhs Debt,50,80,30,0,3.5,4,40-45,2,40,1.75,0,0,40,1.75,0,0,0,0,0,0,0,0,2,Anu-Ash
+16,Flying Furr,3,1,Delhi,Dog Hygiene,Food,No Deal,0,75,0,0,0,7,25-30,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+16,Beyond Water,1,1,Kolkata,Liquid Water Enhancer,Lifestyle,?75 lakhs for 15% Equity,75,75,0,0,15,4,30-35,2,0,0,37.5,7.5,0,0,0,0,37.5,7.5,0,0,0,0,2,Ama-Nam
+16,Let’s Try,1,3,Delhi,Healthy Snacks,Food,?45 lakhs for 12% Equity,45,45,0,0,12,2,45-50,4,0,0,0,0,22.5,6,0,0,22.5,6,0,0,0,0,2,Ama-Anu
+17,Find Your Kicks India,3,0,Ludhiana,Sneaker Resale,Lifestyle,?50 lakhs for 25% equity,50,50,0,0,25,10,20-25,3,10,5,10,5,10,5,0,0,10,5,10,5,0,0,5,Ama-Anu-Ash-Nam-Pey
+17,Aas Vidyalaya,1,1,Mumbai,EdTech App,Technology,?1.5 Crore for 15% Equity,150,150,0,0,15,3,50-55,2,50,3,50,3,0,0,0,0,0,0,50,3,0,0,3,Ash-Nam-Pey
+17,Outbox,1,1,Kolkata,Premium Suprise-Planning,Lifestyle,No Deal,0,50,0,0,0,5,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+17,RoadBounce,1,0,Pune,Pothole Detection Software and Data,Technology,?80 Lakhs for 20% Equity,80,80,0,0,20,10,45-50,1,0,0,0,0,0,0,0,0,0,0,80,20,0,0,1,Pey
+18,Mommy’s Kitchen,2,1,Bangalore,Thin Crust Pizza,Food,No Deal,0,90,0,0,0,3,45-50,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+18,India Hemp and Co,0,1,Bangalore,Hemp Food Products,Food,No Deal,0,50,0,0,0,4,35-40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+18,Otua,2,0,Gurgaon,Electric Auto Vehicle,Automobile,?1 lakh for 1% equity and ?99 lakhs Debt,1,100,99,0,1,1,41-45,2,100,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Ash
+18,Anthyesti,0,1,Kolkata,Funeral Service,Lifestyle,No Deal,0,50,0,0,0,2.5,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+19,Ethik,2,0,Bangalore,Leather-free Shoes,Lifestyle,No Deal,0,15,0,0,0,5,35-40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+19,WeSTOCK,2,0,Kerela,Livestock health monitoring AI,Technology,?60 lakhs for 10% equity,50,50,0,0,10,5,35-40,2,12.5,2.5,12.5,2.5,0,0,0,0,12.5,2.5,12.5,2.5,0,0,4,Ama-Ash-Nam-Pey
+19,KetoIndia,1,1,Delhi,Customised Keto Diets for various medical issues,Health,No Deal,0,150,0,0,0,1.25,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+19,Magic lock,3,0,Unknown,LPG Cylinder lock,Lifestyle,No Deal,0,120,0,0,0,8,40-45,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+20,The State Plate,1,1,Bangalore,Delicacies,Food,?40 Lakhs for 3%equity and ?25 Lakhs Debt,40,65,25,0,3,2,20-25,2,0,0,0,0,0,0,0,0,0,0,65,3,0,0,1,Pey
+20,Bakarmax,1,0,Delhi,Comics & Animation,Lifestyle,No Deal,0,35,0,0,0,5,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+20,IN A CAN,2,0,Pune,Can Cocktails,Food,?1 Crore for 10 % equity,100,50,0,0,10,2,30-35,2,20,2,20,2,20,2,0,0,20,2,20,2,0,0,5,Ama-Anu-Ash-Nam-Pey
+21,Get a Whey,1,1,Mumbai,Sugar-Free Icecream,Food,?1 Crore for 15% equity,100,100,0,0,15,8,40-45,2,33.33,5,0,0,0,0,33.33,5,33.33,5,0,0,0,0,3,Ama-Ash-Pey
+21,Sid 07 Designs,1,0,Jammu,Inventions,Technology,?25 Lakhs for 75% equity & 22 lakhs Debt,25,47,22,0,75,10,25-30,1,0,0,0,0,0,0,0,0,0,0,47,75,0,0,1,Pey
+21,The Quirky Nari,0,1,Mathura,Customised Apparels,Lifestyle,?35 lakhs for 24% equity,35,35,0,0,24,5,25-30,1,0,0,0,0,17.5,12,17.5,12,0,0,0,0,0,0,2,Anu-Vin
+22,Hair Originals,3,0,Gurgaon,Natural Hair Extensions,Lifestyle,?60 Lakhs for 4% equity,60,60,0,0,4,2,40-45,3,20,1.3,0,0,20,1.3,,0,0,0,20,1.3,0,0,3,Anu-Ash-Pey
+22,Poo de Cologne,0,1,Mumbai,Toilet Spray with Essential Oils,Lifestyle,No Deal,0,75,0,0,0,5,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+22,Moonshine Meads,2,0,Pune,Meads,Food,No Deal,0,80,0,0,0,0.5,40-45,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+22,Falhari,3,0,Gurgaon,Fresh Fruits,Food,No Deal,0,50,0,0,0,2,25-30,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+23,Namhya Foods,0,1,Jammu,Ayurvedic Enriched Food,Food,?50 lakhs for 10% Equity & ?50 lakhs Debt,50,100,50,0,10,5,25-30,1,0,0,0,0,0,0,0,0,100,10,0,0,0,0,1,Ama
+23,Urban Monkey,1,0,Mumbai,Streetwear,Lifestyle,No Deal,0,100,0,0,0,1,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+23,Guardian Gears,1,1,Secundarabad,Motorcycle Luggage,Automobile,No Deal,0,30,0,0,0,5,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+23,Modern Myth,1,1,Delhi,Bags,Lifestyle,No Deal,0,75,0,0,0,5,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+24,The Sass Bar,0,1,Mumbai,Gifts,Lifestyle,?50 lakhs for 35% Equity,50,40,0,0,35,8,30-35,1,0,0,0,0,25,17.5,0,0,0,0,0,0,25,17.5,2,Anu-Gha
+24,KG Agrotech,2,0,Malegaon,Agricultural Innovations,Technology,?10 lakhs for 40% Equity & ?20 lakhs Debt,10,30,20,0,40,10,25-30,2,0,0,0,0,0,0,0,0,0,0,30,40,0,0,1,Pey
+24,Nuskha Kitchen,1,1,Jaipur,Homemade Foods,Food,No Deal,0,20,0,0,0,10,35-40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+25,PawsIndia,1,1,Bombay,Dog Products,Food,?50 lakhs for 15% Equity,50,50,0,0,15,4,25-30,2,0,0,0,0,50,15,0,0,0,0,0,0,0,0,1,Anu
+25,Sunfox Technologies,4,0,Dehradun,Portable ECG Device,Health,?1 crore for 6% Equity,100,100,0,0,6,2,30-35,4,0,0,20,1.2,20,1.2,20,1.2,0,0,20,1.2,20,1.2,5,Anu-Gha-Nam-Pey-Vin
+25,Alpino,4,0,Surat,Roasted Peanut Products,Food,No Deal,0,150,0,0,0,2,25-30,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+26,Isak Fragrances,0,1,Lucknow,Perfumes,Lifestyle,?50 lakhs for 50% Equity,50,50,0,0,50,8,30-35,1,0,0,0,0,0,0,0,0,0,0,50,50,0,0,1,Pey
+26,Julaa Automation,3,0,Gujarat,Automatic Cradle,Technology,No Deal,0,50,0,0,0,10,30-35,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+26,Rare Planet,2,0,Kolkata,Handicrafts,Lifestyle,?65 lakhs for 3% Equity,65,65,0,0,3,1,30-35,2,0,0,65,3,0,0,0,0,0,0,0,0,0,0,1,Nam
+27,Theka Coffee,1,0,Gujarat,Coffee Products,food,No Deal,0,50,0,0,0,10,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+27,Watt Technovations,1,0,Gujarat,Ventilated PPE Kits,food,?101 for 4% Equity,0,0,0,0,0,10,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ama-Anu-Nam-Pey
+27,Aliste Technologies,6,0,Noida,Automation Solutions,Technology,No Deal,0,60,0,0,0,5,20-25,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+27,Insurance Samadhan,2,1,Noida,Insurance Solutions,Finance,?1 Crore for 4% Equity,100,100,0,0,4,1,30-35,5,0,0,0,0,0,0,0,0,0,0,100,4,0,0,1,Pey
+28,Humpy A2,2,1,Pune,Organic Milk Products,Food,?1 Crore for 15% Equity,100,100,0,0,15,15,35-40,3,0,0,0,0,0,0,33.33,5,0,0,33.33,5,33.33,5,3,Gha-Pey-Vin
+28,Kunafa World,1,1,Bangalore,Kunafa,Food,No Deal,0,90,0,0,0,5,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+28,Gold Safe Solutions Ind.,2,0,Mumbai,Anti-Suicidal Fan Rod,Safety,?50 lakhs for 30% Equity,50,50,0,0,30,5,30-35,2,0,0,0,0,0,0,16.6,10,0,0,16.6,10,16.6,10,3,Gha-Pey-Vin
+29,Wakao Foods,1,0,Goa,Jackfruit Products,Food,?75 lakhs for 21% Equity,75,75,0,0,21,5,30-35,1,0,0,25,7,0,0,25,7,0,0,0,0,25,7,3,Gha-Nam-Vin
+29,PDD Falcon,1,1,Kaithal,Stainless Steel Items,Lifestyle,No Deal,0,75,0,0,0,3,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+29,PlayBox TV,2,0,Mumbai,Streaming Platform,Lifestyle,No Deal,0,100,0,0,0,3.5,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+30,Sippline Drinking Shields,1,0,Pune,Portable Glass Attachment,Lifestyle,No Deal,0,75,0,0,0,15,30-35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+30,Kabaddi Adda,2,1,Mumbai,Kabaddi Adda,Entertainment,?80 lakhs for 6% Equity,80,80,0,0,6,1,35-40,3,0,0,40,3,0,0,40,3,0,0,0,0,0,0,2,Nam-Vin
+30,Shades of Spring,1,1,Bangalore,Flowers,Lifestyle,No Deal,0,300,0,0,0,1,30-35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+30,Scholify,1,0,Bangalore,Scholarship Platform,Education,No Deal,0,50,0,0,0,7.5,25-30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
